@@ -1,8 +1,14 @@
 # apartmentdatabase
 this is my dbms proj 4sem
-it has two accounts 
-one for security and another for manager
-security can check all the residents living in the apartment and maintains a record of visitors
-manager can update,check the maintainence , update residents and check visitors list.
-security -> userid=security password = security
-manager -> userid =manager password= manager
+The system consists of two user accounts: one for security personnel and another for the manager. The security personnel account allows them to view the list of residents living in the apartment and keep a record of visitors. The manager account, on the other hand, has additional privileges, enabling them to update maintenance records, modify resident information, and access the visitor list.
+
+Here are the user account details:
+
+Security Account:
+
+User ID: security
+Password: security
+Manager Account:
+
+User ID: manager
+Password: manager
